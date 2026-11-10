@@ -1,14 +1,17 @@
 # Data Jobs Dashboard w/ Power Bi
 
-![Dashboard Page 1](Images/Project1_Page1.png)
-
-## Introduction
-
 > **Note:** This is a practice project. I built it while following
 > [Power BI for Data Analytics] by [
 Luke Barousse
 ] on YouTube to learn Power BI.
 > The dataset and project idea come from the course.
+
+
+![Dashboard Page 1](Images/Project1_Page1.png)
+
+## Introduction
+
+
 
 I built this dashboard to practice Power BI skills including data
 cleaning in Power Query, data modeling, DAX measures, and interactive
