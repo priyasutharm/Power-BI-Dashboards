@@ -4,6 +4,16 @@
 
 ## Introduction
 
+> **Note:** This is a practice project. I built it while following
+> [Power BI for Data Analytics] by [
+Luke Barousse
+] on YouTube to learn Power BI.
+> The dataset and project idea come from the course.
+
+I built this dashboard to practice Power BI skills including data
+cleaning in Power Query, data modeling, DAX measures, and interactive
+reporting. It explores the 2024 data job market: job counts, salaries,
+top skills, and trends by job title.
 This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a *real-world dataset of 2024 data science job postings* (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
 
 ## Skills Showcased
